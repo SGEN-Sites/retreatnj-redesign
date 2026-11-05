@@ -39,3 +39,12 @@ and window light. They show product types, not The Retreat's own stock, so they 
 Rejected: a pre-roll render (read as a cigarette); for the bento, two more pre-roll takes (white tubes; hollow paper)
 and one vape take (a dropper bottle). Spend: 22 stills + 8 cut-outs at fal list price (about $0.06 per Ultra still);
 not reconciled against an invoice.
+
+## Home hero (owner pick: option I, 2026-11-05)
+
+`hero-home.webp` (3840x2136), `hero-home-portrait.webp` (1100x1894) and their cut-outs `hero-home-fg.webp` /
+`hero-home-portrait-fg.webp` are The Retreat's own golden-hour photo (`7ad8d765-homepage-hero.jpg`), upscaled 2x with
+fal SeedVR2 (request 01a1a9af-c677-7dd3-85cf-4e0eb5f72e5e), colour-graded (`tools/grade-hero.py`), cut out with
+BiRefNet (requests `hero-fg-2400` / `hero-fg-portrait` in jobs.json), then given extra sky above her head
+(`tools/extend-hero.py`: the photo's own top-row colours and grain, no generated content) so her head clears the
+floating nav. The person and the landscape are unchanged.
