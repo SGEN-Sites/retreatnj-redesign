@@ -10,9 +10,8 @@ owner's word.
 /location/ hero (`assets/source/owner-storefront-screenshot.png`, captured from a map viewer). The viewer's side-panel
 button and mini map were cropped off (34 px at the left, 120 px at the bottom; nothing painted in), then fal Topaz
 Precision "High Fidelity V2" at 1x, face enhancement off (request 01a1aad2-6478-7800-83bf-efc4cd39bc2f), then
-`tools/grade-store.py` (colour and light only). **Rights not yet confirmed:** the frame came from a map viewer, so before
-launch the owner confirms The Retreat took it or holds permission (Street View imagery and visitors' photos carry
-Google's or the photographer's terms).
+`tools/grade-store.py` (colour and light only). Rights: the owner confirmed on 2026-11-05 that The Retreat took this
+photo or has permission to use it.
 
 ## Client media (captured from www.retreatnj.com on 2026-11-05)
 
