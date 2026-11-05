@@ -1,5 +1,11 @@
 # Media
 
+## Owner-supplied media
+
+`natalie-benson.webp` (1080x1350): the portrait the owner supplied for /natalie/ on 2026-11-05
+(`assets/source/owner-natalie-benson.png`), resized and re-encoded only; the alt text names Natalie Benson on the
+owner's word.
+
 ## Client media (captured from www.retreatnj.com on 2026-11-05)
 
 `assets/img/live/` — logo marks (`logo-main.svg`, `logo-footer.svg`), store photography (`store-counter`,
