@@ -71,5 +71,6 @@ the live site's own store photos (counter 1200x896, display 1536x2048, entrance 
 Precision "High Fidelity V2", face enhancement off (counter 2x 01a1aa97-665b-75c2-80c5-f73b6ea40ecf, display 1x
 01a1aa97-67b1-7580-865c-a65534281ea5, entrance 2x 01a1aa97-a5d4-7843-9258-ff6d9570dea5), then graded with
 `tools/grade-store.py` in the Visit photo's look (colour and light only; nothing added or removed; lettering checked at
-100%). They serve the home page's "Who we are" band and the Learn tile "Your first visit"; other pages keep the
-ungraded `store-*` files.
+100%). They serve the home page's "Who we are" band, the Learn tile "Your first visit" and /the-space/; the
+graded entrance is also the backdrop of the footer's "Find your retreat." on every page (owner pick B, 2026-11-05).
+Other pages keep the ungraded `store-*` files.
