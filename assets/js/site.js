@@ -55,12 +55,14 @@
     gate.addEventListener('click', function (e) {
       if (e.target.closest('[data-gate-yes]')) {
         store.set('localStorage', 'retreat-21', 'yes');
-        gate.classList.remove('is-on'); d.body.classList.remove('no-scroll');
+        // splash C: the screen dissolves into the page (motion.css gateOut), then the gate goes
+        gate.classList.add('is-out');
+        setTimeout(function () { gate.classList.remove('is-on', 'is-out'); root.classList.remove('gate-pending'); d.body.classList.remove('no-scroll'); }, reduce ? 60 : 700);
       } else if (e.target.closest('[data-gate-no]')) {
         var m = $('[data-gate-msg]', gate); if (m) m.hidden = false;
       }
     });
-  }
+  } else root.classList.remove('gate-pending');
 
   /* ---------- footer link columns fold on phones ---------- */
   if (w.matchMedia('(max-width: 719px)').matches) $$('.footer-cols .fold').forEach(function (f) { f.removeAttribute('open'); });
