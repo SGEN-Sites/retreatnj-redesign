@@ -11,12 +11,12 @@ adult-use cannabis dispensary at 656 Grand St, Jersey City, NJ.
   leading dispensary site carries and the live site lacks: category guides (flower, pre-rolls, edibles, vapes,
   accessories), how to shop, shop by aroma, offers, a learn hub, Cannabis 101, your first visit, New Jersey cannabis
   laws, areas we serve (Hoboken, Bayonne, Downtown Jersey City), inside The Retreat, a site map and a 404.
-- **Art direction — "Golden Hour on Grand"**: tenebrist dark bands lit by one warm key light, frosted glass panes,
-  and cut-out objects (a glass leaf, river stones, a glowing orb) floating across section seams. Built from the
-  brand's own sand, bronze and olive-black, its leaf-cornered tiles, its golden-hour photography and its own words
+- **Art direction — "Golden Hour on Grand", light edition**: the brand's own sand (#EAE4DE) and bronze (#7D644F) in
+  tints and shades, milk-glass panes, and real store photography layered across arches and section seams. Built from
+  the brand's leaf-cornered tiles, its golden-hour photography and its own words
   ("re·treat — a safe space where you can experience complete renewal…", "Meditate on this.").
 - **Motion**: word-by-word heading reveals, scroll parallax on layered images, 3D tilt and glare on category tiles,
-  a pointer-following key light, magnetic buttons, a breathing orb, a definition that lights up as you scroll.
+  a pointer-following light, magnetic buttons, a breathing circle, a definition that lights up as you scroll.
   All of it is off under `prefers-reduced-motion`, and every word is visible without JavaScript.
 - **Chrome**: utility line with live open/closed status (Jersey City time), mega menus, phone drawer, a sticky
   "Order ahead for pickup" bar on desktop and a bottom quick-nav dock on phones.

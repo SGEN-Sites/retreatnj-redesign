@@ -14,9 +14,9 @@ in words; dark scenes leave named negative space for type. Reviewed at full size
 
 | file | request id | use |
 |---|---|---|
-| cut-leaf | 01a1a93d-8f9b-7b31-ab1f-a2cc64fb1bce → 01a1a940-28e3-7453-b31f-ca048ffbd3be | floating glass leaf (hero, definition, about) |
-| cut-stones | 01a1a93d-90cf-7603-ab9d-572795e45683 → 01a1a940-2a1b-7ce0-8a1a-e39806bb8b5d | river stones crossing section seams |
-| cut-orb | 01a1a93d-9228-7bd2-b3f3-6012796f347f → 01a1a940-2b49-76d1-b50f-f914c275adb1 | glowing orb; the breathing newsletter orb |
+| cut-leaf | 01a1a93d-8f9b-7b31-ab1f-a2cc64fb1bce → 01a1a940-28e3-7453-b31f-ca048ffbd3be | retired 2026-11-05 by the owner; not used |
+| cut-stones | 01a1a93d-90cf-7603-ab9d-572795e45683 → 01a1a940-2a1b-7ce0-8a1a-e39806bb8b5d | retired 2026-11-05 by the owner; not used |
+| cut-orb | 01a1a93d-9228-7bd2-b3f3-6012796f347f → 01a1a940-2b49-76d1-b50f-f914c275adb1 | retired 2026-11-05 by the owner; not used |
 | cut-bud | 01a1a93d-9364-7a61-a2a6-6f355393f12d → 01a1a940-2c6b-7e52-9e64-538120b52921 | flower |
 | cut-vape | 01a1a93d-95c8-7ee3-a714-538f19521dfd → 01a1a940-2f15-7593-9c13-21db4d1dc45f | vapes |
 | cut-grinder | 01a1a93d-970a-7bf3-9e50-3881aaf402c5 → 01a1a940-306c-7bb0-9817-0b077fde83c1 | accessories |
