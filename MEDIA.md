@@ -54,3 +54,12 @@ floating nav. The person and the landscape are unchanged.
 `feature-vaping-2400.webp` / `-1200.webp` are the blog's own photo for "Vaping vs. Smoking Cannabis" (1920x1080 on the
 live site), upscaled 2x with fal SeedVR2 (request 01a1aa58-3ad6-7e61-85f1-f81d13ca87d1) and graded like the hero
 (`tools/grade-feature.py`: colour and light only; nothing in the picture is added or removed).
+
+## Visit photo (owner pick: option B, 2026-11-05)
+
+`visit-interior-1760.webp` / `-1100.webp` are the live site's own interior photo (`The-Retreat-Interior.jpg`, 880x879),
+upscaled 2x with fal Topaz Precision "High Fidelity V2", face enhancement off (request
+01a1aa79-b2bd-7712-9d40-793c2ec7e6a1; a "Low Resolution V2" take, 01a1aa79-b406-7e70-9fd3-59bad364d576, was compared at
+100% and not used), then given a cinematic grade (`tools/grade-visit.py`: colour and light only; nothing in the picture
+is added or removed; the TV screens are only dimmed and desaturated). The ungraded original still serves /location/
+and /the-space/.
