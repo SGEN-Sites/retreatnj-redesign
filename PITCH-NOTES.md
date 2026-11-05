@@ -51,6 +51,17 @@ BlogPosting).
    the careers description ("cannavis", corrected in the preview).
 4. A duplicated phrase on `/natalie/` ("any other any other way") is kept as published; fix on approval.
 5. Two older posts still read as pre-opening ("Ahead of our grand opening", "Opening Soon!"). Update?
+6. **Rewards?** A small "REWARDS" card is visible on the display-wall photo. If The Retreat runs a loyalty
+   program, we will add a Rewards page and put it in the Deals menu.
+7. **Public consumption, contradicted on the blog.** The parks post says public consumption is not legal in Jersey
+   City; three other posts say smoking is allowed "where cigarette smoking is permitted". The new pages follow the
+   stricter reading (private spaces only). The posts are kept as published; worth correcting.
+8. **Light Rail walk:** the contact page says a 5-minute walk from the Liberty State Park station; the getting-here
+   post says 10. The preview uses 5.
+9. **Possession limit:** the parks post mentions possessing up to 6 ounces; the laws page sticks to the purchase limits
+   stated in the "everything you need to know" post. Confirm before we add possession limits.
+10. The blog image named "jersey-city-the-retreat" shows the Newark skyline; the preview does not use it as a Jersey
+    City photo.
 
 ## Imagery
 
