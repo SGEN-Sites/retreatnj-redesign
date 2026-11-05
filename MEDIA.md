@@ -31,10 +31,11 @@ in words; dark scenes leave named negative space for type. Reviewed at full size
 | prod-pre-rolls | 01a1a9e7-be40-7071-ada8-f44cb9fa4e3b (third take) | Shop by category bento |
 | prod-vapes | 01a1a9e5-f714-7fb0-9480-beb640de506a (second take) | Shop by category bento |
 | prod-accessories | 01a1a9e1-de1f-78c3-a758-921acc12cd54 | Shop by category bento |
+| prod-bag | 01a1a9f7-97fc-7e62-9d00-c6d0a8e5e4f6 | Order ahead band on the home page (owner pick: option B) |
 
 The prod-* set (2026-11-05) is one studio series: unbranded products on travertine plinths, a pale warm-stone backdrop
 and window light. They show product types, not The Retreat's own stock, so they carry no product or brand claims.
 
 Rejected: a pre-roll render (read as a cigarette); for the bento, two more pre-roll takes (white tubes; hollow paper)
-and one vape take (a dropper bottle). Spend: 21 stills + 8 cut-outs at fal list price (about $0.06 per Ultra still);
+and one vape take (a dropper bottle). Spend: 22 stills + 8 cut-outs at fal list price (about $0.06 per Ultra still);
 not reconciled against an invoice.
