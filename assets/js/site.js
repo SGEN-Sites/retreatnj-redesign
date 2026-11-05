@@ -281,4 +281,15 @@
       if (!shown) { var none = d.createElement('p'); none.textContent = 'No posts in this category yet.'; list.appendChild(none); }
     }
   }
+
+  /* ---------- brand marquee: start every logo as the band nears ---------- */
+  // logos waiting past the marquee's clipped edges can hold their lazy load until they slide into view (and pop in), in
+  // browsers that clip lazy loading by overflow, so they are all asked for once the band is within 800px
+  var bmImgs = $$('.brandrows__marquee img');
+  if (bmImgs.length && 'IntersectionObserver' in w) {
+    var bmIO = new IntersectionObserver(function (en) {
+      if (en.some(function (e) { return e.isIntersecting; })) { bmImgs.forEach(function (im) { im.loading = 'eager'; }); bmIO.disconnect(); }
+    }, { rootMargin: '800px 0px' });
+    $$('.brandrows__marquee').forEach(function (el) { bmIO.observe(el); });
+  }
 })();
