@@ -48,3 +48,9 @@ fal SeedVR2 (request 01a1a9af-c677-7dd3-85cf-4e0eb5f72e5e), colour-graded (`tool
 BiRefNet (requests `hero-fg-2400` / `hero-fg-portrait` in jobs.json), then given extra sky above her head
 (`tools/extend-hero.py`: the photo's own top-row colours and grain, no generated content) so her head clears the
 floating nav. The person and the landscape are unchanged.
+
+## What's New feature photo (owner pick: option B, 2026-11-05)
+
+`feature-vaping-2400.webp` / `-1200.webp` are the blog's own photo for "Vaping vs. Smoking Cannabis" (1920x1080 on the
+live site), upscaled 2x with fal SeedVR2 (request 01a1aa58-3ad6-7e61-85f1-f81d13ca87d1) and graded like the hero
+(`tools/grade-feature.py`: colour and light only; nothing in the picture is added or removed).
