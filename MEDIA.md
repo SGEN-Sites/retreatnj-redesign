@@ -25,7 +25,16 @@ in words; dark scenes leave named negative space for type. Reviewed at full size
 | scene-window | 01a1a93d-9b01-7bf3-88ef-1dabdadfe454 | the re·treat definition |
 | scene-botanical | 01a1a93d-9c4d-7b42-ba77-f5213580ff62 | learn / terpenes |
 | scene-sand | 01a1a93d-9d82-74d1-90c4-cef29400b88c | order-ahead band backdrop |
-| scene-ritual | 01a1a93d-9ec7-7d60-a73f-d6572ab12226 | area page |
+| scene-ritual | 01a1a93d-9ec7-7d60-a73f-d6572ab12226 | area page; its sand-ripple sibling also backs the marquee |
+| prod-flower | 01a1a9e1-d856-7003-8e81-a2d4894ee627 | Shop by category bento (home, menu, location) |
+| prod-edibles | 01a1a9e1-d9ea-7a82-b1d5-b93e4cec636e | Shop by category bento |
+| prod-pre-rolls | 01a1a9e7-be40-7071-ada8-f44cb9fa4e3b (third take) | Shop by category bento |
+| prod-vapes | 01a1a9e5-f714-7fb0-9480-beb640de506a (second take) | Shop by category bento |
+| prod-accessories | 01a1a9e1-de1f-78c3-a758-921acc12cd54 | Shop by category bento |
 
-Rejected: a pre-roll render (read as a cigarette). Spend: 13 stills + 8 cut-outs at fal list price (about $0.06 per
-Ultra still); not reconciled against an invoice.
+The prod-* set (2026-11-05) is one studio series: unbranded products on travertine plinths, a pale warm-stone backdrop
+and window light. They show product types, not The Retreat's own stock, so they carry no product or brand claims.
+
+Rejected: a pre-roll render (read as a cigarette); for the bento, two more pre-roll takes (white tubes; hollow paper)
+and one vape take (a dropper bottle). Spend: 21 stills + 8 cut-outs at fal list price (about $0.06 per Ultra still);
+not reconciled against an invoice.
